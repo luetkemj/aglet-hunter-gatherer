@@ -1,0 +1,1266 @@
+{
+  "tropical": {
+    "hills": {
+      "spring": {
+        "forage": {
+          "success": "30",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "30",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "29",
+          "quality": "20"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "27",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      }
+    },
+    "mountains": {
+      "spring": {
+        "forage": {
+          "success": "27",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "12"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "27",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "12"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "27",
+          "quality": "20"
+        },
+        "hunt": {
+          "success": "12"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "25",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "12"
+        }
+      }
+    },
+    "forest": {
+      "spring": {
+        "forage": {
+          "success": "30",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "30",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "30",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "30",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      }
+    },
+    "plains": {
+      "spring": {
+        "forage": {
+          "success": "30",
+          "quality": "17"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "30",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "30",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "30",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      }
+    },
+    "swamp": {
+      "spring": {
+        "forage": {
+          "success": "18",
+          "quality": "12"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "21",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "18",
+          "quality": "12"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "15",
+          "quality": "12"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      }
+    },
+    "desert": {
+      "spring": {
+        "forage": {
+          "success": "1",
+          "quality": "6"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "0",
+          "quality": "0"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "1",
+          "quality": "8"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "1",
+          "quality": "8"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      }
+    },
+    "coast": {
+      "spring": {
+        "forage": {
+          "success": "29",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "30",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "29",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "27",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      }
+    }
+  },
+  "subtropical": {
+    "hills": {
+      "spring": {
+        "forage": {
+          "success": "27",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "30",
+          "quality": "22"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "29",
+          "quality": "22"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "24",
+          "quality": "23"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      }
+    },
+    "mountains": {
+      "spring": {
+        "forage": {
+          "success": "16",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "10"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "24",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "10"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "18",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "10"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "12",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "10"
+        }
+      }
+    },
+    "forest": {
+      "spring": {
+        "forage": {
+          "success": "30",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "30",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "30",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "27",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      }
+    },
+    "plains": {
+      "spring": {
+        "forage": {
+          "success": "27",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "30",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "30",
+          "quality": "20"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "24",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      }
+    },
+    "swamp": {
+      "spring": {
+        "forage": {
+          "success": "15",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "15",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "15",
+          "quality": "12"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "12",
+          "quality": "12"
+        },
+        "hunt": {
+          "success": "12"
+        }
+      }
+    },
+    "desert": {
+      "spring": {
+        "forage": {
+          "success": "1",
+          "quality": "5"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "0",
+          "quality": "0"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "1",
+          "quality": "9"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "1",
+          "quality": "9"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      }
+    },
+    "coast": {
+      "spring": {
+        "forage": {
+          "success": "27",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "30",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "29",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "24",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "18"
+        }
+      }
+    }
+  },
+  "temperate": {
+    "hills": {
+      "spring": {
+        "forage": {
+          "success": "22",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "12"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "27",
+          "quality": "20"
+        },
+        "hunt": {
+          "success": "12"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "24",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "12"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "20",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "8"
+        }
+      }
+    },
+    "mountains": {
+      "spring": {
+        "forage": {
+          "success": "9",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "9"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "12",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "9"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "9",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "9"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "6",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "5"
+        }
+      }
+    },
+    "forest": {
+      "spring": {
+        "forage": {
+          "success": "27",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "30",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "27",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "24",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "12"
+        }
+      }
+    },
+    "plains": {
+      "spring": {
+        "forage": {
+          "success": "18",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "12"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "22",
+          "quality": "21"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "18",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "15",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "8"
+        }
+      }
+    },
+    "swamp": {
+      "spring": {
+        "forage": {
+          "success": "10",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "10"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "12",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "10",
+          "quality": "12"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "9",
+          "quality": "12"
+        },
+        "hunt": {
+          "success": "5"
+        }
+      }
+    },
+    "desert": {
+      "spring": {
+        "forage": {
+          "success": "2",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "1",
+          "quality": "9"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "2",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "3",
+          "quality": "7"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      }
+    },
+    "coast": {
+      "spring": {
+        "forage": {
+          "success": "20",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "12"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "24",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "20",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "15"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "15",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "6"
+        }
+      }
+    }
+  },
+  "subarctic": {
+    "hills": {
+      "spring": {
+        "forage": {
+          "success": "9",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "12",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "5"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "8",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "5"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "6",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      }
+    },
+    "mountains": {
+      "spring": {
+        "forage": {
+          "success": "5",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "6",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "5",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "3",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      }
+    },
+    "forest": {
+      "spring": {
+        "forage": {
+          "success": "27",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "30",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "24",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "21",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      }
+    },
+    "plains": {
+      "spring": {
+        "forage": {
+          "success": "9",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "15",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "5"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "9",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "5"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "6",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      }
+    },
+    "swamp": {
+      "spring": {
+        "forage": {
+          "success": "6",
+          "quality": "12"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "9",
+          "quality": "12"
+        },
+        "hunt": {
+          "success": "5"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "6",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "5",
+          "quality": "12"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      }
+    },
+    "desert": {
+      "spring": {
+        "forage": {
+          "success": "2",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "5",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "2",
+          "quality": "5"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "0",
+          "quality": "0"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      }
+    },
+    "coast": {
+      "spring": {
+        "forage": {
+          "success": "10",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "4"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "15",
+          "quality": "18"
+        },
+        "hunt": {
+          "success": "6"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "10",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "6"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "7",
+          "quality": "12"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      }
+    }
+  },
+  "arctic": {
+    "hills": {
+      "spring": {
+        "forage": {
+          "success": "3",
+          "quality": "12"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "3",
+          "quality": "12"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "2",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "2",
+          "quality": "6"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      }
+    },
+    "mountains": {
+      "spring": {
+        "forage": {
+          "success": "0",
+          "quality": "0"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "2",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "0",
+          "quality": "0"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "0",
+          "quality": "0"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      }
+    },
+    "forest": {
+      "spring": {
+        "forage": {
+          "success": "2",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "3",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "2",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "2"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "1",
+          "quality": "50"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      }
+    },
+    "plains": {
+      "spring": {
+        "forage": {
+          "success": "2",
+          "quality": "5"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "3",
+          "quality": "5"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "0",
+          "quality": "0"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "0",
+          "quality": "0"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      }
+    },
+    "swamp": {
+      "spring": {
+        "forage": {
+          "success": "3",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      },
+      "summer": {
+        "forage": {
+          "success": "5",
+          "quality": "15"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "fall": {
+        "forage": {
+          "success": "3",
+          "quality": "6"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      },
+      "winter": {
+        "forage": {
+          "success": "3",
+          "quality": "6"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      }
+    }
+  }
+}
