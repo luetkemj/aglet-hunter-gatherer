@@ -1,3 +1,157 @@
 @import '../../theme/reset';
 @import '../../theme/swatches';
 @import '../../theme/typography';
+
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: space-between;
+}
+
+.content {
+  color: $swatch01;
+  padding: 12px;
+  max-width: 700px;
+  margin: 0 auto;
+  flex-grow: 1;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  margin: 28px 0;
+}
+
+.results {
+  font-family: $sans-serif;
+  font-size: 36px;
+  line-height: 44px;
+  font-weight: 700;
+  color: $swatch01;
+  min-height: 120px;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  margin: 0 auto 28px;
+  text-align: center;
+}
+
+.button {
+  font-family: $sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  background: $swatch05;
+  color: $swatch02;
+  text-transform: uppercase;
+  padding: 12px 20px;
+
+  &.hunt {
+    margin-right: 24px;
+  }
+
+  &:hover {
+    box-shadow: 0 2px 4px 0 rgba($swatch01, 0.2);
+  }
+
+  &:active {
+    box-shadow: inset 0 1px 3px 0 rgba($swatch01, 0.2);
+  }
+
+  &[disabled] {
+    opacity: 0.5;
+
+    &:hover {
+      box-shadow: none;
+    }
+
+    &:active {
+      box-shadow: none;
+    }
+  }
+}
+
+.currentSettings {
+  font-family: $sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.whereWhen {
+  margin-bottom: 4px;
+}
+
+.group {
+  margin-bottom: 16px;
+}
+
+.heading {
+  font-family: $sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.setActions {
+  font-family: $sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: $swatch01;
+}
+
+.active {
+  color: $swatch05;
+}
+
+.settingAction {
+  &::after {
+    content: '/';
+    display: inline-block;
+    margin: 0 0.5ch;
+    color: $swatch01;
+  }
+
+  &:last-child {
+    &::after {
+      content: '';
+    }
+  }
+}
+
+.incrementGroup {
+  display: flex;
+}
+
+.incrementGroupActions {
+  text-align: center;
+  margin-left: 12px;
+}
+
+.incrementGroupAction {
+  &[disabled] {
+    opacity: 0.5;
+  }
+
+  &::after {
+    content: '|';
+    display: inline-block;
+    margin: 0 0.5ch;
+    color: $swatch01;
+  }
+
+  &:last-child {
+    &::after {
+      content: '';
+    }
+  }
+}
