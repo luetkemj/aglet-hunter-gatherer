@@ -44,7 +44,13 @@ export default class AppContainer extends Component {
   gather() {
     this.setState({ message: 'gathering...' });
     setTimeout(() => this.setState({
-      message: gather(this.state.climate, this.state.terrain, this.state.season),
+      message: gather(
+        this.state.climate,
+        this.state.terrain,
+        this.state.season,
+        this.state.gatherers.proficient,
+        this.state.gatherers.nonProficient,
+      ),
     }), 500);
   }
 
