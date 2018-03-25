@@ -2,7 +2,7 @@
   "tropical": {
     "hills": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "18"
         },
@@ -11,7 +11,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "18"
         },
@@ -20,7 +20,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "29",
           "quality": "20"
         },
@@ -29,7 +29,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "27",
           "quality": "21"
         },
@@ -40,7 +40,7 @@
     },
     "mountains": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "27",
           "quality": "21"
         },
@@ -49,7 +49,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "27",
           "quality": "18"
         },
@@ -58,7 +58,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "27",
           "quality": "20"
         },
@@ -67,7 +67,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "25",
           "quality": "21"
         },
@@ -78,7 +78,7 @@
     },
     "forest": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "21"
         },
@@ -87,7 +87,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "18"
         },
@@ -96,7 +96,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "21"
         },
@@ -105,7 +105,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "21"
         },
@@ -116,7 +116,7 @@
     },
     "plains": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "17"
         },
@@ -125,7 +125,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "15"
         },
@@ -134,7 +134,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "18"
         },
@@ -143,7 +143,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "21"
         },
@@ -154,7 +154,7 @@
     },
     "swamp": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "18",
           "quality": "12"
         },
@@ -163,7 +163,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "21",
           "quality": "15"
         },
@@ -172,7 +172,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "18",
           "quality": "12"
         },
@@ -181,7 +181,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "15",
           "quality": "12"
         },
@@ -192,7 +192,7 @@
     },
     "desert": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "1",
           "quality": "6"
         },
@@ -201,7 +201,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "0",
           "quality": "0"
         },
@@ -210,7 +210,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "1",
           "quality": "8"
         },
@@ -219,7 +219,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "1",
           "quality": "8"
         },
@@ -230,7 +230,7 @@
     },
     "coast": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "29",
           "quality": "15"
         },
@@ -239,7 +239,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "15"
         },
@@ -248,7 +248,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "29",
           "quality": "15"
         },
@@ -257,7 +257,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "27",
           "quality": "18"
         },
@@ -270,7 +270,7 @@
   "subtropical": {
     "hills": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "27",
           "quality": "21"
         },
@@ -279,7 +279,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "22"
         },
@@ -288,7 +288,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "29",
           "quality": "22"
         },
@@ -297,7 +297,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "24",
           "quality": "23"
         },
@@ -308,7 +308,7 @@
     },
     "mountains": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "16",
           "quality": "21"
         },
@@ -317,7 +317,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "24",
           "quality": "21"
         },
@@ -326,7 +326,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "18",
           "quality": "18"
         },
@@ -335,7 +335,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "12",
           "quality": "18"
         },
@@ -346,7 +346,7 @@
     },
     "forest": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "21"
         },
@@ -355,7 +355,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "21"
         },
@@ -364,7 +364,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "21"
         },
@@ -373,7 +373,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "27",
           "quality": "21"
         },
@@ -384,7 +384,7 @@
     },
     "plains": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "27",
           "quality": "21"
         },
@@ -393,7 +393,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "21"
         },
@@ -402,7 +402,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "20"
         },
@@ -411,7 +411,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "24",
           "quality": "21"
         },
@@ -422,7 +422,7 @@
     },
     "swamp": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "15",
           "quality": "15"
         },
@@ -431,7 +431,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "15",
           "quality": "15"
         },
@@ -440,7 +440,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "15",
           "quality": "12"
         },
@@ -449,7 +449,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "12",
           "quality": "12"
         },
@@ -460,7 +460,7 @@
     },
     "desert": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "1",
           "quality": "5"
         },
@@ -469,7 +469,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "0",
           "quality": "0"
         },
@@ -478,7 +478,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "1",
           "quality": "9"
         },
@@ -487,7 +487,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "1",
           "quality": "9"
         },
@@ -498,7 +498,7 @@
     },
     "coast": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "27",
           "quality": "18"
         },
@@ -507,7 +507,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "18"
         },
@@ -516,7 +516,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "29",
           "quality": "18"
         },
@@ -525,7 +525,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "24",
           "quality": "18"
         },
@@ -538,7 +538,7 @@
   "temperate": {
     "hills": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "22",
           "quality": "18"
         },
@@ -547,7 +547,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "27",
           "quality": "20"
         },
@@ -556,7 +556,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "24",
           "quality": "15"
         },
@@ -565,7 +565,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "20",
           "quality": "15"
         },
@@ -576,7 +576,7 @@
     },
     "mountains": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "9",
           "quality": "18"
         },
@@ -585,7 +585,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "12",
           "quality": "18"
         },
@@ -594,7 +594,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "9",
           "quality": "15"
         },
@@ -603,7 +603,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "6",
           "quality": "18"
         },
@@ -614,7 +614,7 @@
     },
     "forest": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "27",
           "quality": "18"
         },
@@ -623,7 +623,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "18"
         },
@@ -632,7 +632,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "27",
           "quality": "18"
         },
@@ -641,7 +641,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "24",
           "quality": "18"
         },
@@ -652,7 +652,7 @@
     },
     "plains": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "18",
           "quality": "18"
         },
@@ -661,7 +661,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "22",
           "quality": "21"
         },
@@ -670,7 +670,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "18",
           "quality": "15"
         },
@@ -679,7 +679,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "15",
           "quality": "18"
         },
@@ -690,7 +690,7 @@
     },
     "swamp": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "10",
           "quality": "18"
         },
@@ -699,7 +699,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "12",
           "quality": "15"
         },
@@ -708,7 +708,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "10",
           "quality": "12"
         },
@@ -717,7 +717,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "9",
           "quality": "12"
         },
@@ -728,7 +728,7 @@
     },
     "desert": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "2",
           "quality": "15"
         },
@@ -737,7 +737,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "1",
           "quality": "9"
         },
@@ -746,7 +746,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "2",
           "quality": "15"
         },
@@ -755,7 +755,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "3",
           "quality": "7"
         },
@@ -766,7 +766,7 @@
     },
     "coast": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "20",
           "quality": "18"
         },
@@ -775,7 +775,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "24",
           "quality": "18"
         },
@@ -784,7 +784,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "20",
           "quality": "15"
         },
@@ -793,7 +793,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "15",
           "quality": "15"
         },
@@ -806,7 +806,7 @@
   "subarctic": {
     "hills": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "9",
           "quality": "15"
         },
@@ -815,7 +815,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "12",
           "quality": "18"
         },
@@ -824,7 +824,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "8",
           "quality": "15"
         },
@@ -833,7 +833,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "6",
           "quality": "15"
         },
@@ -844,7 +844,7 @@
     },
     "mountains": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "5",
           "quality": "15"
         },
@@ -853,7 +853,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "6",
           "quality": "18"
         },
@@ -862,7 +862,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "5",
           "quality": "15"
         },
@@ -871,7 +871,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "3",
           "quality": "15"
         },
@@ -882,7 +882,7 @@
     },
     "forest": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "27",
           "quality": "18"
         },
@@ -891,7 +891,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "30",
           "quality": "15"
         },
@@ -900,7 +900,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "24",
           "quality": "18"
         },
@@ -909,7 +909,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "21",
           "quality": "18"
         },
@@ -920,7 +920,7 @@
     },
     "plains": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "9",
           "quality": "18"
         },
@@ -929,7 +929,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "15",
           "quality": "18"
         },
@@ -938,7 +938,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "9",
           "quality": "15"
         },
@@ -947,7 +947,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "6",
           "quality": "18"
         },
@@ -958,7 +958,7 @@
     },
     "swamp": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "6",
           "quality": "12"
         },
@@ -967,7 +967,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "9",
           "quality": "12"
         },
@@ -976,7 +976,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "6",
           "quality": "15"
         },
@@ -985,7 +985,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "5",
           "quality": "12"
         },
@@ -996,7 +996,7 @@
     },
     "desert": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "2",
           "quality": "15"
         },
@@ -1005,7 +1005,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "5",
           "quality": "15"
         },
@@ -1014,7 +1014,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "2",
           "quality": "5"
         },
@@ -1023,7 +1023,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "0",
           "quality": "0"
         },
@@ -1034,7 +1034,7 @@
     },
     "coast": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "10",
           "quality": "15"
         },
@@ -1043,7 +1043,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "15",
           "quality": "18"
         },
@@ -1052,7 +1052,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "10",
           "quality": "15"
         },
@@ -1061,7 +1061,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "7",
           "quality": "12"
         },
@@ -1074,7 +1074,7 @@
   "arctic": {
     "hills": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "3",
           "quality": "12"
         },
@@ -1083,7 +1083,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "3",
           "quality": "12"
         },
@@ -1092,7 +1092,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "2",
           "quality": "15"
         },
@@ -1101,7 +1101,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "2",
           "quality": "6"
         },
@@ -1112,7 +1112,7 @@
     },
     "mountains": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "0",
           "quality": "0"
         },
@@ -1121,7 +1121,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "2",
           "quality": "15"
         },
@@ -1130,7 +1130,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "0",
           "quality": "0"
         },
@@ -1139,7 +1139,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "0",
           "quality": "0"
         },
@@ -1150,7 +1150,7 @@
     },
     "forest": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "2",
           "quality": "15"
         },
@@ -1159,7 +1159,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "3",
           "quality": "15"
         },
@@ -1168,7 +1168,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "2",
           "quality": "15"
         },
@@ -1177,7 +1177,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "1",
           "quality": "50"
         },
@@ -1188,7 +1188,7 @@
     },
     "plains": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "2",
           "quality": "5"
         },
@@ -1197,7 +1197,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "3",
           "quality": "5"
         },
@@ -1206,7 +1206,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "0",
           "quality": "0"
         },
@@ -1215,7 +1215,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "0",
           "quality": "0"
         },
@@ -1226,7 +1226,7 @@
     },
     "swamp": {
       "spring": {
-        "forage": {
+        "gather": {
           "success": "3",
           "quality": "15"
         },
@@ -1235,7 +1235,7 @@
         }
       },
       "summer": {
-        "forage": {
+        "gather": {
           "success": "5",
           "quality": "15"
         },
@@ -1244,7 +1244,7 @@
         }
       },
       "fall": {
-        "forage": {
+        "gather": {
           "success": "3",
           "quality": "6"
         },
@@ -1253,7 +1253,7 @@
         }
       },
       "winter": {
-        "forage": {
+        "gather": {
           "success": "3",
           "quality": "6"
         },
