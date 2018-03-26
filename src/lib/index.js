@@ -29,7 +29,7 @@ function gatherAttempt(climate, terrain, season, proficient, total) {
   }
 }
 
-export function gather(climate, terrain, season, pgs, npgs) {
+export function gather(climate, terrain, season, pgs, npgs, test) {
   const total = {
     rationsFound: 0,
     qualityRationsFound: 0,
@@ -54,6 +54,10 @@ export function gather(climate, terrain, season, pgs, npgs) {
   let rationsQualityMessage = '';
   if (total.qualityRationsFound > 0 && total.rationsFound - total.qualityRationsFound > 0) {
     rationsQualityMessage = `But ${total.rationsFound - total.qualityRationsFound} will make you sick.`
+  }
+
+  if (test) {
+    return total;
   }
 
   return `${rationsFoundMessage} ${rationsQualityMessage}`;

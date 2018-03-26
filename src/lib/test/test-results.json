@@ -1,0 +1,2754 @@
+{
+  "tropical": {
+    "mountains": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 80096
+          },
+          "npgs1": {
+            "success": 180106,
+            "quality": 127845
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 80093,
+            "quality": 47999
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 360056,
+            "quality": 256150
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 70150
+          },
+          "npgs1": {
+            "success": 179754,
+            "quality": 109916
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 80036,
+            "quality": 40014
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 360061,
+            "quality": 219981
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 76795
+          },
+          "npgs1": {
+            "success": 180113,
+            "quality": 121988
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 80060,
+            "quality": 45035
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 360204,
+            "quality": 244669
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 93390,
+            "quality": 74949
+          },
+          "npgs1": {
+            "success": 166566,
+            "quality": 118798
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 73560,
+            "quality": 44191
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 332928,
+            "quality": 237294
+          }
+        }
+      }
+    },
+    "hills": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 69938
+          },
+          "npgs1": {
+            "success": 190011,
+            "quality": 114748
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 90005,
+            "quality": 44806
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 379632,
+            "quality": 229486
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 69966
+          },
+          "npgs1": {
+            "success": 189791,
+            "quality": 114684
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 89902,
+            "quality": 44897
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 380120,
+            "quality": 230228
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 76609
+          },
+          "npgs1": {
+            "success": 186953,
+            "quality": 125826
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 86808,
+            "quality": 49151
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 373271,
+            "quality": 251348
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 80012
+          },
+          "npgs1": {
+            "success": 179759,
+            "quality": 127836
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 80069,
+            "quality": 48207
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 359900,
+            "quality": 256027
+          }
+        }
+      }
+    },
+    "plains": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 66575
+          },
+          "npgs1": {
+            "success": 190060,
+            "quality": 108858
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 90092,
+            "quality": 41782
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 379965,
+            "quality": 217039
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 59875
+          },
+          "npgs1": {
+            "success": 190140,
+            "quality": 96282
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 89939,
+            "quality": 35873
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 380131,
+            "quality": 192037
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 70155
+          },
+          "npgs1": {
+            "success": 190021,
+            "quality": 114874
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 90298,
+            "quality": 45117
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 379855,
+            "quality": 229624
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 79831
+          },
+          "npgs1": {
+            "success": 190127,
+            "quality": 134246
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 89831,
+            "quality": 53759
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 379853,
+            "quality": 267890
+          }
+        }
+      }
+    },
+    "forest": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 79993
+          },
+          "npgs1": {
+            "success": 189863,
+            "quality": 133633
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 89956,
+            "quality": 53824
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 379945,
+            "quality": 268099
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 69948
+          },
+          "npgs1": {
+            "success": 189899,
+            "quality": 114795
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 90107,
+            "quality": 45021
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 380107,
+            "quality": 229929
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 79879
+          },
+          "npgs1": {
+            "success": 190191,
+            "quality": 133809
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 89938,
+            "quality": 54194
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 379920,
+            "quality": 267673
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 80017
+          },
+          "npgs1": {
+            "success": 190102,
+            "quality": 133303
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 90103,
+            "quality": 54007
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 380005,
+            "quality": 268365
+          }
+        }
+      }
+    },
+    "swamp": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 70008,
+            "quality": 34966
+          },
+          "npgs1": {
+            "success": 120360,
+            "quality": 50080
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 50111,
+            "quality": 14926
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 240099,
+            "quality": 100222
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 79980,
+            "quality": 48049
+          },
+          "npgs1": {
+            "success": 139585,
+            "quality": 71645
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 59922,
+            "quality": 24007
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 280338,
+            "quality": 144553
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 70122,
+            "quality": 35047
+          },
+          "npgs1": {
+            "success": 119830,
+            "quality": 49789
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 49998,
+            "quality": 15006
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 239818,
+            "quality": 100160
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 60281,
+            "quality": 30013
+          },
+          "npgs1": {
+            "success": 100008,
+            "quality": 41850
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 39880,
+            "quality": 11663
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 200190,
+            "quality": 84222
+          }
+        }
+      }
+    },
+    "desert": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 13278,
+            "quality": 4000
+          },
+          "npgs1": {
+            "success": 13418,
+            "quality": 4064
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 26792,
+            "quality": 7960
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 10092,
+            "quality": 1059
+          },
+          "npgs1": {
+            "success": 10083,
+            "quality": 1008
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 19831,
+            "quality": 2003
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 13168,
+            "quality": 4748
+          },
+          "npgs1": {
+            "success": 13520,
+            "quality": 5006
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 26705,
+            "quality": 9838
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 13389,
+            "quality": 4982
+          },
+          "npgs1": {
+            "success": 13502,
+            "quality": 4949
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 26899,
+            "quality": 9900
+          }
+        }
+      }
+    },
+    "coast": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 60145
+          },
+          "npgs1": {
+            "success": 186722,
+            "quality": 94644
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 86761,
+            "quality": 34586
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 373493,
+            "quality": 189809
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 59968
+          },
+          "npgs1": {
+            "success": 190009,
+            "quality": 95939
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 90193,
+            "quality": 36019
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 380006,
+            "quality": 191193
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 60289
+          },
+          "npgs1": {
+            "success": 186851,
+            "quality": 94646
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 86643,
+            "quality": 34453
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 373270,
+            "quality": 189160
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 69895
+          },
+          "npgs1": {
+            "success": 180204,
+            "quality": 110120
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 79931,
+            "quality": 40137
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 359852,
+            "quality": 220776
+          }
+        }
+      }
+    }
+  },
+  "subtropical": {
+    "mountains": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 63581,
+            "quality": 50681
+          },
+          "npgs1": {
+            "success": 106645,
+            "quality": 76634
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 43052,
+            "quality": 25795
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 213734,
+            "quality": 153606
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 89954,
+            "quality": 72360
+          },
+          "npgs1": {
+            "success": 160063,
+            "quality": 113839
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 69973,
+            "quality": 42003
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 319692,
+            "quality": 227636
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 69856,
+            "quality": 48778
+          },
+          "npgs1": {
+            "success": 119798,
+            "quality": 74152
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 50064,
+            "quality": 24966
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 240465,
+            "quality": 148129
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 50092,
+            "quality": 34956
+          },
+          "npgs1": {
+            "success": 80182,
+            "quality": 49649
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 29881,
+            "quality": 14937
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 160094,
+            "quality": 100138
+          }
+        }
+      }
+    },
+    "hills": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 80182
+          },
+          "npgs1": {
+            "success": 180090,
+            "quality": 128368
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 80041,
+            "quality": 47818
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 359901,
+            "quality": 255855
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 83433
+          },
+          "npgs1": {
+            "success": 190075,
+            "quality": 140414
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 89919,
+            "quality": 57037
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 379869,
+            "quality": 280507
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 83251
+          },
+          "npgs1": {
+            "success": 186714,
+            "quality": 138277
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 86442,
+            "quality": 54734
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 373517,
+            "quality": 276385
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 89943,
+            "quality": 77905
+          },
+          "npgs1": {
+            "success": 159880,
+            "quality": 124514
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 70428,
+            "quality": 46925
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 319728,
+            "quality": 249431
+          }
+        }
+      }
+    },
+    "plains": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 80016
+          },
+          "npgs1": {
+            "success": 179811,
+            "quality": 127984
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 80054,
+            "quality": 48280
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 360092,
+            "quality": 256464
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 79904
+          },
+          "npgs1": {
+            "success": 190060,
+            "quality": 133931
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 89872,
+            "quality": 54087
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 380065,
+            "quality": 268278
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 76582
+          },
+          "npgs1": {
+            "success": 189910,
+            "quality": 127632
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 89866,
+            "quality": 50823
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 379868,
+            "quality": 255304
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 89943,
+            "quality": 71877
+          },
+          "npgs1": {
+            "success": 159744,
+            "quality": 113641
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 70064,
+            "quality": 42229
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 320343,
+            "quality": 228231
+          }
+        }
+      }
+    },
+    "forest": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 80103
+          },
+          "npgs1": {
+            "success": 189967,
+            "quality": 134209
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 89962,
+            "quality": 54124
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 379905,
+            "quality": 268135
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 80025
+          },
+          "npgs1": {
+            "success": 190022,
+            "quality": 133941
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 90084,
+            "quality": 54070
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 380091,
+            "quality": 268000
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 80089
+          },
+          "npgs1": {
+            "success": 189965,
+            "quality": 134059
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 89952,
+            "quality": 54090
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 380091,
+            "quality": 267640
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 80167
+          },
+          "npgs1": {
+            "success": 180034,
+            "quality": 128051
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 80106,
+            "quality": 48207
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 360139,
+            "quality": 256787
+          }
+        }
+      }
+    },
+    "swamp": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 59936,
+            "quality": 36016
+          },
+          "npgs1": {
+            "success": 100457,
+            "quality": 51791
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 39880,
+            "quality": 16021
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 200110,
+            "quality": 104040
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 59954,
+            "quality": 35840
+          },
+          "npgs1": {
+            "success": 99716,
+            "quality": 52045
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 39993,
+            "quality": 16071
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 199541,
+            "quality": 103469
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 60112,
+            "quality": 30149
+          },
+          "npgs1": {
+            "success": 99655,
+            "quality": 41503
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 40014,
+            "quality": 11869
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 200368,
+            "quality": 84017
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 50046,
+            "quality": 24867
+          },
+          "npgs1": {
+            "success": 79895,
+            "quality": 33979
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 29857,
+            "quality": 8906
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 160450,
+            "quality": 68225
+          }
+        }
+      }
+    },
+    "desert": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 13224,
+            "quality": 3587
+          },
+          "npgs1": {
+            "success": 13130,
+            "quality": 3551
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 26806,
+            "quality": 7099
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 9913,
+            "quality": 1016
+          },
+          "npgs1": {
+            "success": 10040,
+            "quality": 952
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 19970,
+            "quality": 1940
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 13373,
+            "quality": 5319
+          },
+          "npgs1": {
+            "success": 13485,
+            "quality": 5475
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 26607,
+            "quality": 10713
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 13377,
+            "quality": 5388
+          },
+          "npgs1": {
+            "success": 13419,
+            "quality": 5326
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 26753,
+            "quality": 10750
+          }
+        }
+      }
+    },
+    "coast": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 69985
+          },
+          "npgs1": {
+            "success": 180183,
+            "quality": 110103
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 79900,
+            "quality": 40030
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 359930,
+            "quality": 219603
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 70083
+          },
+          "npgs1": {
+            "success": 190052,
+            "quality": 114835
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 89948,
+            "quality": 44957
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 380024,
+            "quality": 230464
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 70140
+          },
+          "npgs1": {
+            "success": 186760,
+            "quality": 113739
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 86532,
+            "quality": 43048
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 373147,
+            "quality": 226630
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 89860,
+            "quality": 62959
+          },
+          "npgs1": {
+            "success": 159948,
+            "quality": 97939
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 69997,
+            "quality": 34958
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 319734,
+            "quality": 196345
+          }
+        }
+      }
+    }
+  },
+  "temperate": {
+    "mountains": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 40389,
+            "quality": 28227
+          },
+          "npgs1": {
+            "success": 60045,
+            "quality": 38007
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 20088,
+            "quality": 9956
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 119454,
+            "quality": 75370
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 50026,
+            "quality": 35034
+          },
+          "npgs1": {
+            "success": 80453,
+            "quality": 50292
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 29914,
+            "quality": 14927
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 160025,
+            "quality": 100121
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 40148,
+            "quality": 23956
+          },
+          "npgs1": {
+            "success": 59913,
+            "quality": 31791
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 20128,
+            "quality": 7980
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 119639,
+            "quality": 63729
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 30000,
+            "quality": 21040
+          },
+          "npgs1": {
+            "success": 39752,
+            "quality": 25829
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 10117,
+            "quality": 5015
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 80030,
+            "quality": 51777
+          }
+        }
+      }
+    },
+    "hills": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 83343,
+            "quality": 58310
+          },
+          "npgs1": {
+            "success": 146487,
+            "quality": 90386
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 63463,
+            "quality": 31920
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 292842,
+            "quality": 179880
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 76717
+          },
+          "npgs1": {
+            "success": 180089,
+            "quality": 121820
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 79969,
+            "quality": 45260
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 360176,
+            "quality": 243943
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 89980,
+            "quality": 53946
+          },
+          "npgs1": {
+            "success": 160127,
+            "quality": 82095
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 70142,
+            "quality": 28080
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 319790,
+            "quality": 163451
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 76531,
+            "quality": 45945
+          },
+          "npgs1": {
+            "success": 133164,
+            "quality": 68696
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 56579,
+            "quality": 22659
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 266569,
+            "quality": 137022
+          }
+        }
+      }
+    },
+    "plains": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 70169,
+            "quality": 49006
+          },
+          "npgs1": {
+            "success": 120002,
+            "quality": 74014
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 50228,
+            "quality": 25177
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 240150,
+            "quality": 148023
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 83307,
+            "quality": 66593
+          },
+          "npgs1": {
+            "success": 146739,
+            "quality": 105021
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 63020,
+            "quality": 37556
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 293166,
+            "quality": 209586
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 70051,
+            "quality": 42317
+          },
+          "npgs1": {
+            "success": 119604,
+            "quality": 61903
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 50107,
+            "quality": 20070
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 239933,
+            "quality": 124196
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 60019,
+            "quality": 42022
+          },
+          "npgs1": {
+            "success": 100001,
+            "quality": 61972
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 40458,
+            "quality": 20154
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 199751,
+            "quality": 123630
+          }
+        }
+      }
+    },
+    "forest": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 69886
+          },
+          "npgs1": {
+            "success": 179894,
+            "quality": 109703
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 80159,
+            "quality": 40269
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 359867,
+            "quality": 219997
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 70090
+          },
+          "npgs1": {
+            "success": 189924,
+            "quality": 115061
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 90018,
+            "quality": 44890
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 380176,
+            "quality": 230507
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 69802
+          },
+          "npgs1": {
+            "success": 180215,
+            "quality": 110208
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 79880,
+            "quality": 39912
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 359872,
+            "quality": 220525
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 90007,
+            "quality": 62964
+          },
+          "npgs1": {
+            "success": 159895,
+            "quality": 97930
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 70165,
+            "quality": 34974
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 320182,
+            "quality": 196124
+          }
+        }
+      }
+    },
+    "swamp": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 43491,
+            "quality": 30465
+          },
+          "npgs1": {
+            "success": 66725,
+            "quality": 41946
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 23446,
+            "quality": 11823
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 133098,
+            "quality": 83970
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 49561,
+            "quality": 29804
+          },
+          "npgs1": {
+            "success": 80066,
+            "quality": 41978
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 29819,
+            "quality": 11813
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 159237,
+            "quality": 83525
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 43332,
+            "quality": 21469
+          },
+          "npgs1": {
+            "success": 66891,
+            "quality": 28630
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 23538,
+            "quality": 7011
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 133329,
+            "quality": 57408
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 40136,
+            "quality": 20087
+          },
+          "npgs1": {
+            "success": 59905,
+            "quality": 25928
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 20199,
+            "quality": 6145
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 120504,
+            "quality": 52385
+          }
+        }
+      }
+    },
+    "desert": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 16678,
+            "quality": 10162
+          },
+          "npgs1": {
+            "success": 16661,
+            "quality": 10035
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 33084,
+            "quality": 19865
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 13388,
+            "quality": 5368
+          },
+          "npgs1": {
+            "success": 13295,
+            "quality": 5297
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 26607,
+            "quality": 10620
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 16889,
+            "quality": 10042
+          },
+          "npgs1": {
+            "success": 16563,
+            "quality": 9914
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 33164,
+            "quality": 19735
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 19864,
+            "quality": 6754
+          },
+          "npgs1": {
+            "success": 20179,
+            "quality": 6786
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 40052,
+            "quality": 13402
+          }
+        }
+      }
+    },
+    "coast": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 76443,
+            "quality": 53693
+          },
+          "npgs1": {
+            "success": 133599,
+            "quality": 82253
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 56582,
+            "quality": 28208
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 266826,
+            "quality": 164311
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 89993,
+            "quality": 62853
+          },
+          "npgs1": {
+            "success": 160282,
+            "quality": 98628
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 69874,
+            "quality": 34720
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 319773,
+            "quality": 195542
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 76524,
+            "quality": 45819
+          },
+          "npgs1": {
+            "success": 133208,
+            "quality": 68682
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 56649,
+            "quality": 22637
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 266266,
+            "quality": 136466
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 60056,
+            "quality": 35987
+          },
+          "npgs1": {
+            "success": 100304,
+            "quality": 52294
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 39825,
+            "quality": 15913
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 200668,
+            "quality": 104214
+          }
+        }
+      }
+    }
+  },
+  "subarctic": {
+    "mountains": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 26681,
+            "quality": 16116
+          },
+          "npgs1": {
+            "success": 33449,
+            "quality": 18812
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 6705,
+            "quality": 2600
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 66609,
+            "quality": 37202
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 30180,
+            "quality": 21011
+          },
+          "npgs1": {
+            "success": 39878,
+            "quality": 25960
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 10117,
+            "quality": 5009
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 79908,
+            "quality": 51914
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 26812,
+            "quality": 16053
+          },
+          "npgs1": {
+            "success": 33237,
+            "quality": 18630
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 6614,
+            "quality": 2711
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 66869,
+            "quality": 37413
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 19932,
+            "quality": 12002
+          },
+          "npgs1": {
+            "success": 20038,
+            "quality": 12025
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 40404,
+            "quality": 24204
+          }
+        }
+      }
+    },
+    "hills": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 40047,
+            "quality": 24031
+          },
+          "npgs1": {
+            "success": 59687,
+            "quality": 31725
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 19832,
+            "quality": 7857
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 119922,
+            "quality": 63917
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 50107,
+            "quality": 35058
+          },
+          "npgs1": {
+            "success": 79852,
+            "quality": 49979
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 30188,
+            "quality": 15132
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 159997,
+            "quality": 99453
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 36626,
+            "quality": 21930
+          },
+          "npgs1": {
+            "success": 53464,
+            "quality": 28590
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 16732,
+            "quality": 6517
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 106578,
+            "quality": 57419
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 30164,
+            "quality": 18151
+          },
+          "npgs1": {
+            "success": 39901,
+            "quality": 21793
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 9925,
+            "quality": 4023
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 79623,
+            "quality": 43929
+          }
+        }
+      }
+    },
+    "plains": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 39945,
+            "quality": 28057
+          },
+          "npgs1": {
+            "success": 59888,
+            "quality": 37765
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 19759,
+            "quality": 9860
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 120246,
+            "quality": 76346
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 59939,
+            "quality": 42061
+          },
+          "npgs1": {
+            "success": 100130,
+            "quality": 61933
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 39727,
+            "quality": 19815
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 200128,
+            "quality": 124092
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 39982,
+            "quality": 24072
+          },
+          "npgs1": {
+            "success": 59754,
+            "quality": 31778
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 20097,
+            "quality": 8013
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 119549,
+            "quality": 63800
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 29825,
+            "quality": 20821
+          },
+          "npgs1": {
+            "success": 40138,
+            "quality": 26144
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 9837,
+            "quality": 5005
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 79671,
+            "quality": 51969
+          }
+        }
+      }
+    },
+    "forest": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 69929
+          },
+          "npgs1": {
+            "success": 179960,
+            "quality": 109726
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 80079,
+            "quality": 39994
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 359999,
+            "quality": 219444
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 100000,
+            "quality": 60037
+          },
+          "npgs1": {
+            "success": 190043,
+            "quality": 95723
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 90013,
+            "quality": 35997
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 379834,
+            "quality": 192143
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 90204,
+            "quality": 63087
+          },
+          "npgs1": {
+            "success": 160149,
+            "quality": 98092
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 70043,
+            "quality": 35124
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 320251,
+            "quality": 195823
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 80148,
+            "quality": 55959
+          },
+          "npgs1": {
+            "success": 139812,
+            "quality": 85963
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 59773,
+            "quality": 29843
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 279809,
+            "quality": 171731
+          }
+        }
+      }
+    },
+    "swamp": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 30046,
+            "quality": 15167
+          },
+          "npgs1": {
+            "success": 39908,
+            "quality": 17885
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 9954,
+            "quality": 3021
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 80132,
+            "quality": 36118
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 40048,
+            "quality": 19940
+          },
+          "npgs1": {
+            "success": 60006,
+            "quality": 26046
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 19666,
+            "quality": 5988
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 120018,
+            "quality": 52200
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 30110,
+            "quality": 18125
+          },
+          "npgs1": {
+            "success": 39932,
+            "quality": 21961
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 9824,
+            "quality": 3885
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 80060,
+            "quality": 43887
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 26419,
+            "quality": 13222
+          },
+          "npgs1": {
+            "success": 33316,
+            "quality": 15200
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 6822,
+            "quality": 2014
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 66631,
+            "quality": 30620
+          }
+        }
+      }
+    },
+    "desert": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 16969,
+            "quality": 10191
+          },
+          "npgs1": {
+            "success": 16552,
+            "quality": 9918
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 33457,
+            "quality": 20023
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 26530,
+            "quality": 15814
+          },
+          "npgs1": {
+            "success": 33287,
+            "quality": 18577
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 6580,
+            "quality": 2696
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 66784,
+            "quality": 37264
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 16618,
+            "quality": 4401
+          },
+          "npgs1": {
+            "success": 16715,
+            "quality": 4574
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 33221,
+            "quality": 8943
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 10052,
+            "quality": 1050
+          },
+          "npgs1": {
+            "success": 9932,
+            "quality": 961
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 0,
+            "quality": 0
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 20088,
+            "quality": 2103
+          }
+        }
+      }
+    },
+    "coast": {
+      "spring": {
+        "pgs1": {
+          "npgs0": {
+            "success": 43337,
+            "quality": 26000
+          },
+          "npgs1": {
+            "success": 66741,
+            "quality": 35499
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 23379,
+            "quality": 9349
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 133074,
+            "quality": 70502
+          }
+        }
+      },
+      "summer": {
+        "pgs1": {
+          "npgs0": {
+            "success": 60066,
+            "quality": 42046
+          },
+          "npgs1": {
+            "success": 99895,
+            "quality": 61886
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 39887,
+            "quality": 19871
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 199865,
+            "quality": 123947
+          }
+        }
+      },
+      "fall": {
+        "pgs1": {
+          "npgs0": {
+            "success": 43395,
+            "quality": 26061
+          },
+          "npgs1": {
+            "success": 66460,
+            "quality": 35199
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 23313,
+            "quality": 9476
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 133512,
+            "quality": 70305
+          }
+        }
+      },
+      "winter": {
+        "pgs1": {
+          "npgs0": {
+            "success": 33074,
+            "quality": 16613
+          },
+          "npgs1": {
+            "success": 46760,
+            "quality": 20823
+          }
+        },
+        "pgs0": {
+          "npgs1": {
+            "success": 13221,
+            "quality": 3859
+          }
+        },
+        "pgs2": {
+          "npgs2": {
+            "success": 93451,
+            "quality": 41441
+          }
+        }
+      }
+    }
+  }
+}

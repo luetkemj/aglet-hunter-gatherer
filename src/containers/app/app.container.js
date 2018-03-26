@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Footer, Header } from '@aglet/components';
 
-import { hunt, gather } from '../../../lib';
+import { hunt, gather } from '../../lib';
 import style from './app.container.style.scss';
 
 export default class AppContainer extends Component {
