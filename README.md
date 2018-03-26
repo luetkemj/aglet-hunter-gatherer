@@ -1,6 +1,8 @@
 # Aglet Hunter Gatherer
 
-API for hunting and gathering in tabletop rpgs.
+API & UI for hunting and gathering in tabletop rpgs.
+
+[Demo](http://aglet.io/tools/hunter-gatherer/)
 
 Very much a WIP.
 
