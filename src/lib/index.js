@@ -21,10 +21,10 @@ function gatherAttempt(climate, terrain, season, proficient, total) {
   };
 
   if (results.success.roll <= results.success.target) {
-    total.rationsFound += 1;
+    total.rationsFound += 1; // eslint-disable-line no-param-reassign
 
     if (results.quality.roll <= results.quality.target) {
-      total.qualityRationsFound += 1;
+      total.qualityRationsFound += 1; // eslint-disable-line no-param-reassign
     }
   }
 }
@@ -46,14 +46,14 @@ export function gather(climate, terrain, season, pgs, npgs, test) {
   if (total.rationsFound > 1) {
     rationsFoundMessage = `You found ${total.rationsFound} days worth of rations.`;
   } else if (total.rationsFound === 1) {
-    rationsFoundMessage = `You found a days worth of rations.`;
+    rationsFoundMessage = 'You found a days worth of rations.';
   } else {
-    rationsFoundMessage = `You didn't find anything edible.`;
+    rationsFoundMessage = "You didn't find anything edible.";
   }
 
   let rationsQualityMessage = '';
   if (total.qualityRationsFound > 0 && total.rationsFound - total.qualityRationsFound > 0) {
-    rationsQualityMessage = `But ${total.rationsFound - total.qualityRationsFound} will make you sick.`
+    rationsQualityMessage = `But ${total.rationsFound - total.qualityRationsFound} will make you sick.`;
   }
 
   if (test) {
@@ -65,7 +65,7 @@ export function gather(climate, terrain, season, pgs, npgs, test) {
 
 function weightedTableRoll(table, roll) {
   const keys = Object.keys(table);
-  const key = _.find(keys, key => roll <= key);
+  const key = _.find(keys, k => roll <= k);
 
   return table[key];
 }
@@ -101,15 +101,16 @@ export function hunt(climate, terrain, season, hunters, proficientHunters, verbo
         gameKilled: undefined,
         missilesUsed: undefined,
       },
-    }
-  }
+    },
+  };
 
   // check if any game was found
   results.findGame.result = results.findGame.roll <= results.findGame.target;
 
   // if game was found, find out how big it is and what kind
   if (results.findGame.result) {
-    results.gameFound.size.result = weightedTableRoll(results.gameFound.size.table, results.gameFound.size.roll);
+    results.gameFound.size.result =
+      weightedTableRoll(results.gameFound.size.table, results.gameFound.size.roll);
     results.gameFound.animal = _.sample(animals[results.gameFound.size.result]);
   }
 
@@ -125,15 +126,19 @@ export function hunt(climate, terrain, season, hunters, proficientHunters, verbo
     // roll a number with the max
     results.gameFound.count.roll = _.random(1, maxRoll);
     // roll on the table to get a count range for game found
-    results.gameFound.count.range = weightedTableRoll(results.gameFound.count.table, results.gameFound.count.roll);
+    results.gameFound.count.range =
+      weightedTableRoll(results.gameFound.count.table, results.gameFound.count.roll);
     // with all the information we now have get the number of creatures found
-    results.gameFound.count.result = _.random(results.gameFound.count.range.min, results.gameFound.count.range.max);
+    results.gameFound.count.result =
+      _.random(results.gameFound.count.range.min, results.gameFound.count.range.max);
   }
 
   // if game was found and we know how big it is we should find out how far away it is.
   if (results.gameFound.size.result) {
     results.gameFound.distance.table = game.distance[results.gameFound.size.result];
-    results.gameFound.distance.result = _.round(_.random(results.gameFound.distance.table.min, results.gameFound.distance.table.max), -1);
+    results.gameFound.distance.result =
+      _.round(
+        _.random(results.gameFound.distance.table.min, results.gameFound.distance.table.max), -1);
   }
 
   // if game was found go ahead and try and kill it
@@ -154,13 +159,13 @@ export function hunt(climate, terrain, season, hunters, proficientHunters, verbo
       large: {
         2: 1,
         3: 1,
-      }
-    }
+      },
+    };
 
     // build tables
     results.gameKilled.missilesUsedTable = success[hunters];
     results.gameKilled.gameKilledTable =
-      success[gameTableTranslation[results.gameFound.size.result][results.gameFound.count.range.max]];
+      success[gameTableTranslation[results.gameFound.size.result][results.gameFound.count.range.max]]; // eslint-disable-line
 
     const rolls = [
       weightedTableRoll(results.gameKilled.missilesUsedTable, _.random(0, 30)),
@@ -178,13 +183,12 @@ export function hunt(climate, terrain, season, hunters, proficientHunters, verbo
     results.gameFound.result = `${results.gameFound.count.result} ${results.gameFound.animal} (${results.gameFound.size.result}) found at ${results.gameFound.distance.result} yards.`;
 
     if (results.gameKilled.count.missilesUsed === 0) {
-      results.gameFound.result += ` It got away before you could shoot it.`
+      results.gameFound.result += ' It got away before you could shoot it.';
     } else {
-      results.gameFound.result += ` ${results.gameKilled.count.gameKilled} killed with ${results.gameKilled.count.missilesUsed} missiles used.`
+      results.gameFound.result += ` ${results.gameKilled.count.gameKilled} killed with ${results.gameKilled.count.missilesUsed} missiles used.`;
     }
-
   } else {
-    results.gameFound.result = `No game found.`
+    results.gameFound.result = 'No game found.';
   }
 
   if (verbose) {
