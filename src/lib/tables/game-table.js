@@ -1,3 +1,4 @@
+/* eslint-disable */
 export const game = {
   size: {
     12: 'small',

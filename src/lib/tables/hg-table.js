@@ -1,3 +1,4 @@
+/* eslint-disable */
 export const hg = {
   "tropical": {
     "hills": {
@@ -1152,6 +1153,44 @@ export const hg = {
       "spring": {
         "gather": {
           "success": "2",
+          "quality": "5"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      },
+      "summer": {
+        "gather": {
+          "success": "3",
+          "quality": "5"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "fall": {
+        "gather": {
+          "success": "0",
+          "quality": "0"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      },
+      "winter": {
+        "gather": {
+          "success": "0",
+          "quality": "0"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      }
+    },
+    "plains": {
+      "spring": {
+        "gather": {
+          "success": "2",
           "quality": "15"
         },
         "hunt": {
@@ -1186,7 +1225,7 @@ export const hg = {
         }
       }
     },
-    "plains": {
+    "swamp": {
       "spring": {
         "gather": {
           "success": "2",
@@ -1224,7 +1263,45 @@ export const hg = {
         }
       }
     },
-    "swamp": {
+    "desert": {
+      "spring": {
+        "gather": {
+          "success": "2",
+          "quality": "5"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      },
+      "summer": {
+        "gather": {
+          "success": "3",
+          "quality": "5"
+        },
+        "hunt": {
+          "success": "3"
+        }
+      },
+      "fall": {
+        "gather": {
+          "success": "0",
+          "quality": "0"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      },
+      "winter": {
+        "gather": {
+          "success": "0",
+          "quality": "0"
+        },
+        "hunt": {
+          "success": "1"
+        }
+      }
+    },
+    "coast": {
       "spring": {
         "gather": {
           "success": "3",

@@ -1,9 +1,8 @@
+/* eslint-disable no-console */
 import _ from 'lodash';
 import { gather } from '../index';
 
 const fs = require('fs');
-
-/* eslint-disable no-console */
 
 const output = {};
 
@@ -49,6 +48,7 @@ const climates = [
   'subtropical',
   'temperate',
   'subarctic',
+  'arctic',
 ];
 
 _.each(climates, (climate) => {
@@ -64,7 +64,7 @@ _.each(climates, (climate) => {
 
 console.log('Tests Complete! 🎉');
 
-const path = './lib/test/test-results.json';
+const path = './src/lib/test/test-results.json';
 fs.writeFile(path, JSON.stringify(output, null, 2), (e) => {
   console.log('Saving file...');
   if (e) {

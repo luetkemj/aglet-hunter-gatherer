@@ -1,3 +1,4 @@
+/* eslint-disable */
 export const success = {
   1: {
     5: 0,

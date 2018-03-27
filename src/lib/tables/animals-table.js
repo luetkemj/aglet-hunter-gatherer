@@ -1,3 +1,4 @@
+/* eslint-disable */
 export const animals = {
   small: [
     "Bat",
