@@ -72,16 +72,27 @@ function weightedTableRoll(table, roll) {
   return table[key];
 }
 
-export function hunt(climate, terrain, season, hunters, proficientHunters, verbose) {
+export function hunt(climate, terrain, season, time, phs, nphs, verbose) {
+  // lower is better
+  let timeBonus = 0;
+  if (time === 'day') timeBonus += 3;
+  if (time === 'night') timeBonus += 10;
+  const findBonus = (nphs * 3) + phs + timeBonus;
+  const killBonus = (nphs * 3) + (phs * -3) + timeBonus;
+
   const results = {
+    bonus: {
+      findBonus,
+      killBonus,
+    },
     findGame: {
       result: undefined,
-      roll: _.random(1, 30),
+      roll: _.random(1, 30) + findBonus,
       target: hg[climate][terrain][season].hunt.success,
     },
     gameFound: {
       size: {
-        roll: _.random(1, 30),
+        roll: _.random(1, 30) + killBonus,
         table: game.size,
         result: undefined,
       },
@@ -89,6 +100,10 @@ export function hunt(climate, terrain, season, hunters, proficientHunters, verbo
         roll: undefined,
         table: undefined,
         result: undefined,
+        range: {
+          max: undefined,
+          min: undefined,
+        },
       },
       distance: {
         table: undefined,
@@ -165,7 +180,8 @@ export function hunt(climate, terrain, season, hunters, proficientHunters, verbo
     };
 
     // build tables
-    results.gameKilled.missilesUsedTable = success[hunters];
+    const party = (nphs + phs > 4) ? 4 : nphs + phs;
+    results.gameKilled.missilesUsedTable = success[party];
     results.gameKilled.gameKilledTable =
       success[gameTableTranslation[results.gameFound.size.result][results.gameFound.count.range.max]]; // eslint-disable-line
 
@@ -194,7 +210,7 @@ export function hunt(climate, terrain, season, hunters, proficientHunters, verbo
   }
 
   if (verbose) {
-    return results;
+    console.log(JSON.stringify(results));
   }
 
   return results.gameFound.result;

@@ -37,7 +37,15 @@ export default class AppContainer extends Component {
   hunt() {
     this.setState({ message: 'hunting...' });
     setTimeout(() => this.setState({
-      message: hunt(this.state.climate, this.state.terrain, this.state.season, 1),
+      message: hunt(
+        this.state.climate,
+        this.state.terrain,
+        this.state.season,
+        this.state.time,
+        this.state.hunters.proficient,
+        this.state.hunters.nonProficient,
+        false,
+      ),
     }), 500);
   }
 
