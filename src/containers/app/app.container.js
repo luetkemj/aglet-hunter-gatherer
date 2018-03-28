@@ -48,6 +48,7 @@ export default class AppContainer extends Component {
         this.state.climate,
         this.state.terrain,
         this.state.season,
+        this.state.time,
         this.state.gatherers.proficient,
         this.state.gatherers.nonProficient,
       ),

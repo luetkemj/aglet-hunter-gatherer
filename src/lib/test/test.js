@@ -6,8 +6,8 @@ const fs = require('fs');
 
 const output = {};
 
-function recordGather(climate, terrain, season, pgs, npgs) {
-  const path = `${climate}.${terrain}.${season}.pgs${pgs}.npgs${npgs}`;
+function recordGather(climate, terrain, season, time, pgs, npgs) {
+  const path = `${climate}.${terrain}.${season}.${time}.pgs${pgs}.npgs${npgs}`;
   const testResult = { success: 0, quality: 0 };
   _.times(100000, () => {
     const result = gather(climate, terrain, season, pgs, npgs, 'test');
@@ -18,13 +18,6 @@ function recordGather(climate, terrain, season, pgs, npgs) {
   _.set(output, path, testResult);
   console.log(`test completed: ${path}`);
 }
-
-// const times = [
-//   'dawn',
-//   'day',
-//   'dusk',
-//   'night',
-// ];
 
 const terrains = [
   'mountains',
@@ -54,10 +47,10 @@ const climates = [
 _.each(climates, (climate) => {
   _.each(terrains, (terrain) => {
     _.each(seasons, (season) => {
-      recordGather(climate, terrain, season, 1, 0);
-      recordGather(climate, terrain, season, 0, 1);
-      recordGather(climate, terrain, season, 1, 1);
-      recordGather(climate, terrain, season, 2, 2);
+      recordGather(climate, terrain, season, 'day', 1, 0);
+      recordGather(climate, terrain, season, 'night', 0, 1);
+      recordGather(climate, terrain, season, 'day', 1, 0);
+      recordGather(climate, terrain, season, 'night', 0, 1);
     });
   });
 });

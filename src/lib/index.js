@@ -4,8 +4,9 @@ import { success } from './tables/success-table';
 import { animals } from './tables/animals-table';
 import { hg } from './tables/hg-table';
 
-function gatherAttempt(climate, terrain, season, proficient, total) {
-  const bonus = proficient ? -3 : 3; // lower is better
+function gatherAttempt(climate, terrain, season, time, proficient, total) {
+  let bonus = proficient ? -3 : 3; // lower is better
+  if (time === 'night') bonus += 15;
   const results = {
     success: {
       result: undefined,
@@ -29,17 +30,17 @@ function gatherAttempt(climate, terrain, season, proficient, total) {
   }
 }
 
-export function gather(climate, terrain, season, pgs, npgs, test) {
+export function gather(climate, terrain, season, time, pgs, npgs, test) {
   const total = {
     rationsFound: 0,
     qualityRationsFound: 0,
   };
 
   // make proficient attempts and update total
-  _.times(pgs, () => gatherAttempt(climate, terrain, season, true, total));
+  _.times(pgs, () => gatherAttempt(climate, terrain, season, time, true, total));
 
   // make non-proficient attempts and update total
-  _.times(npgs, () => gatherAttempt(climate, terrain, season, false, total));
+  _.times(npgs, () => gatherAttempt(climate, terrain, season, time, false, total));
 
 
   let rationsFoundMessage = '';
@@ -62,6 +63,7 @@ export function gather(climate, terrain, season, pgs, npgs, test) {
 
   return `${rationsFoundMessage} ${rationsQualityMessage}`;
 }
+
 
 function weightedTableRoll(table, roll) {
   const keys = Object.keys(table);

@@ -2,686 +2,518 @@
   "tropical": {
     "mountains": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 80000
-          },
-          "npgs1": {
-            "success": 180053,
-            "quality": 127873
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 79970,
-            "quality": 48162
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 360417,
-            "quality": 256464
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 70058
-          },
-          "npgs1": {
-            "success": 179982,
-            "quality": 109890
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 80111,
-            "quality": 40196
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 359963,
-            "quality": 219759
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 76902
-          },
-          "npgs1": {
-            "success": 180083,
-            "quality": 122090
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 80123,
-            "quality": 45407
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 360162,
-            "quality": 243828
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 93350,
-            "quality": 74526
-          },
-          "npgs1": {
-            "success": 166465,
-            "quality": 118435
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 73226,
-            "quality": 43812
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 333373,
-            "quality": 236746
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "hills": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 70230
-          },
-          "npgs1": {
-            "success": 190132,
-            "quality": 114978
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 89935,
-            "quality": 45043
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380106,
-            "quality": 229354
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 69826
-          },
-          "npgs1": {
-            "success": 189970,
-            "quality": 114861
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 89932,
-            "quality": 44934
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380064,
-            "quality": 230141
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 76619
-          },
-          "npgs1": {
-            "success": 186585,
-            "quality": 125849
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 86723,
-            "quality": 49452
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 373174,
-            "quality": 251356
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 80042
-          },
-          "npgs1": {
-            "success": 179899,
-            "quality": 127788
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 79829,
-            "quality": 47706
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 359948,
-            "quality": 256608
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "plains": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 66687
-          },
-          "npgs1": {
-            "success": 189935,
-            "quality": 108682
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 90021,
-            "quality": 41941
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380045,
-            "quality": 216604
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 59996
-          },
-          "npgs1": {
-            "success": 189851,
-            "quality": 95998
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 90043,
-            "quality": 36179
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 379933,
-            "quality": 192525
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 70160
-          },
-          "npgs1": {
-            "success": 190125,
-            "quality": 114928
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 90003,
-            "quality": 45070
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380031,
-            "quality": 230257
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 80108
-          },
-          "npgs1": {
-            "success": 190125,
-            "quality": 133883
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 90005,
-            "quality": 54109
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380031,
-            "quality": 267691
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "forest": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 79801
-          },
-          "npgs1": {
-            "success": 190136,
-            "quality": 134222
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 89998,
-            "quality": 53603
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380242,
-            "quality": 268015
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 70237
-          },
-          "npgs1": {
-            "success": 189929,
-            "quality": 115201
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 90033,
-            "quality": 45128
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380266,
-            "quality": 229604
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 80190
-          },
-          "npgs1": {
-            "success": 190011,
-            "quality": 133877
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 89979,
-            "quality": 54137
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380043,
-            "quality": 268570
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 80134
-          },
-          "npgs1": {
-            "success": 189979,
-            "quality": 134292
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 89916,
-            "quality": 53891
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380058,
-            "quality": 267830
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "swamp": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 69629,
-            "quality": 34863
-          },
-          "npgs1": {
-            "success": 119741,
-            "quality": 49914
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 50317,
-            "quality": 15151
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 239850,
-            "quality": 99825
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 80253,
-            "quality": 48457
-          },
-          "npgs1": {
-            "success": 140210,
-            "quality": 72306
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 59867,
-            "quality": 23857
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 279964,
-            "quality": 144166
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 70043,
-            "quality": 34914
-          },
-          "npgs1": {
-            "success": 120259,
-            "quality": 50093
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 49718,
-            "quality": 14885
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 239958,
-            "quality": 100199
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 60167,
-            "quality": 30127
-          },
-          "npgs1": {
-            "success": 99729,
-            "quality": 41708
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 39745,
-            "quality": 11848
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 200016,
-            "quality": 83609
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "desert": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 13324,
-            "quality": 4036
-          },
-          "npgs1": {
-            "success": 13283,
-            "quality": 3894
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 26661,
-            "quality": 8062
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 9927,
-            "quality": 1071
-          },
-          "npgs1": {
-            "success": 10049,
-            "quality": 951
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 20112,
-            "quality": 2057
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 13327,
-            "quality": 4905
-          },
-          "npgs1": {
-            "success": 13334,
-            "quality": 4909
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 26671,
-            "quality": 9775
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 13427,
-            "quality": 5004
-          },
-          "npgs1": {
-            "success": 13342,
-            "quality": 4865
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 26913,
-            "quality": 9857
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "coast": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 60027
-          },
-          "npgs1": {
-            "success": 186624,
-            "quality": 94413
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 86614,
-            "quality": 34806
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 373229,
-            "quality": 188997
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 59916
-          },
-          "npgs1": {
-            "success": 189929,
-            "quality": 95950
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 89981,
-            "quality": 35774
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 379628,
-            "quality": 191659
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 60248
-          },
-          "npgs1": {
-            "success": 186644,
-            "quality": 94166
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 86887,
-            "quality": 34452
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 373573,
-            "quality": 189512
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 70169
-          },
-          "npgs1": {
-            "success": 180002,
-            "quality": 110165
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 80152,
-            "quality": 40216
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 360154,
-            "quality": 220139
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
@@ -690,686 +522,518 @@
   "subtropical": {
     "mountains": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 63440,
-            "quality": 50871
-          },
-          "npgs1": {
-            "success": 106717,
-            "quality": 76696
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 43246,
-            "quality": 26018
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 212903,
-            "quality": 152838
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 90216,
-            "quality": 72108
-          },
-          "npgs1": {
-            "success": 160221,
-            "quality": 114213
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 69553,
-            "quality": 41886
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 319781,
-            "quality": 227677
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 69815,
-            "quality": 48909
-          },
-          "npgs1": {
-            "success": 120252,
-            "quality": 74068
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 49837,
-            "quality": 24843
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 240099,
-            "quality": 147822
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 49876,
-            "quality": 35109
-          },
-          "npgs1": {
-            "success": 80603,
-            "quality": 50553
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 29811,
-            "quality": 14778
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 160169,
-            "quality": 99944
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "hills": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 79852
-          },
-          "npgs1": {
-            "success": 179875,
-            "quality": 128156
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 80250,
-            "quality": 48232
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 360085,
-            "quality": 255897
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 83253
-          },
-          "npgs1": {
-            "success": 190158,
-            "quality": 140953
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 89963,
-            "quality": 56662
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380000,
-            "quality": 280911
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 83211
-          },
-          "npgs1": {
-            "success": 186605,
-            "quality": 138046
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 86643,
-            "quality": 54646
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 373337,
-            "quality": 276293
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 89953,
-            "quality": 77970
-          },
-          "npgs1": {
-            "success": 160135,
-            "quality": 124714
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 69765,
-            "quality": 46786
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 319962,
-            "quality": 249431
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "plains": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 80116
-          },
-          "npgs1": {
-            "success": 179946,
-            "quality": 127715
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 79789,
-            "quality": 47838
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 360213,
-            "quality": 256610
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 80119
-          },
-          "npgs1": {
-            "success": 189904,
-            "quality": 133406
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 89932,
-            "quality": 53815
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 379902,
-            "quality": 267896
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 76565
-          },
-          "npgs1": {
-            "success": 190184,
-            "quality": 127946
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 89880,
-            "quality": 50789
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380060,
-            "quality": 254976
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 89970,
-            "quality": 72046
-          },
-          "npgs1": {
-            "success": 160007,
-            "quality": 113869
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 70138,
-            "quality": 41951
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 320324,
-            "quality": 228040
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "forest": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 80254
-          },
-          "npgs1": {
-            "success": 189991,
-            "quality": 134158
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 89904,
-            "quality": 53727
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 379987,
-            "quality": 267993
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 80059
-          },
-          "npgs1": {
-            "success": 190024,
-            "quality": 133938
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 89913,
-            "quality": 54001
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380088,
-            "quality": 268087
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 80241
-          },
-          "npgs1": {
-            "success": 189943,
-            "quality": 133832
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 90024,
-            "quality": 54032
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380055,
-            "quality": 268590
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 80013
-          },
-          "npgs1": {
-            "success": 180152,
-            "quality": 127792
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 80061,
-            "quality": 48249
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 360177,
-            "quality": 256020
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "swamp": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 59877,
-            "quality": 35742
-          },
-          "npgs1": {
-            "success": 99907,
-            "quality": 51823
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 40150,
-            "quality": 16131
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 199925,
-            "quality": 104199
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 60019,
-            "quality": 35797
-          },
-          "npgs1": {
-            "success": 99873,
-            "quality": 51892
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 40089,
-            "quality": 15919
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 200024,
-            "quality": 103860
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 60113,
-            "quality": 30055
-          },
-          "npgs1": {
-            "success": 100341,
-            "quality": 42258
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 39792,
-            "quality": 11961
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 200174,
-            "quality": 84161
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 50127,
-            "quality": 25218
-          },
-          "npgs1": {
-            "success": 79962,
-            "quality": 33994
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 29736,
-            "quality": 8998
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 159381,
-            "quality": 67432
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "desert": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 13431,
-            "quality": 3700
-          },
-          "npgs1": {
-            "success": 13123,
-            "quality": 3523
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 26630,
-            "quality": 7014
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 9970,
-            "quality": 961
-          },
-          "npgs1": {
-            "success": 9867,
-            "quality": 985
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 19830,
-            "quality": 1972
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 13462,
-            "quality": 5377
-          },
-          "npgs1": {
-            "success": 13306,
-            "quality": 5260
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 26784,
-            "quality": 10631
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 13209,
-            "quality": 5334
-          },
-          "npgs1": {
-            "success": 13437,
-            "quality": 5403
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 26771,
-            "quality": 10589
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "coast": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 69853
-          },
-          "npgs1": {
-            "success": 179884,
-            "quality": 109858
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 80152,
-            "quality": 40162
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 360028,
-            "quality": 219848
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 70141
-          },
-          "npgs1": {
-            "success": 189826,
-            "quality": 114877
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 89774,
-            "quality": 44864
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380055,
-            "quality": 229780
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 69992
-          },
-          "npgs1": {
-            "success": 186824,
-            "quality": 113406
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 86755,
-            "quality": 43476
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 373134,
-            "quality": 226902
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 89941,
-            "quality": 62916
-          },
-          "npgs1": {
-            "success": 160043,
-            "quality": 97647
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 69762,
-            "quality": 34751
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 320133,
-            "quality": 195606
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
@@ -1378,686 +1042,518 @@
   "temperate": {
     "mountains": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 40108,
-            "quality": 27961
-          },
-          "npgs1": {
-            "success": 59915,
-            "quality": 37978
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 20259,
-            "quality": 10047
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 120187,
-            "quality": 76042
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 50084,
-            "quality": 35092
-          },
-          "npgs1": {
-            "success": 79650,
-            "quality": 50082
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 30174,
-            "quality": 15140
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 159922,
-            "quality": 99883
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 40293,
-            "quality": 23958
-          },
-          "npgs1": {
-            "success": 60038,
-            "quality": 32131
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 20103,
-            "quality": 8011
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 120454,
-            "quality": 64264
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 30035,
-            "quality": 21026
-          },
-          "npgs1": {
-            "success": 39729,
-            "quality": 25681
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 9788,
-            "quality": 4887
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 79888,
-            "quality": 52012
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "hills": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 83570,
-            "quality": 58398
-          },
-          "npgs1": {
-            "success": 146916,
-            "quality": 90026
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 63526,
-            "quality": 31648
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 293327,
-            "quality": 179972
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 76741
-          },
-          "npgs1": {
-            "success": 179837,
-            "quality": 121840
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 79937,
-            "quality": 45042
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 359769,
-            "quality": 243866
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 89867,
-            "quality": 53714
-          },
-          "npgs1": {
-            "success": 160020,
-            "quality": 82093
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 70060,
-            "quality": 27794
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 320637,
-            "quality": 164198
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 76591,
-            "quality": 45964
-          },
-          "npgs1": {
-            "success": 133428,
-            "quality": 68894
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 56855,
-            "quality": 22792
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 266590,
-            "quality": 137235
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "plains": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 69775,
-            "quality": 48821
-          },
-          "npgs1": {
-            "success": 120226,
-            "quality": 73909
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 49968,
-            "quality": 24818
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 239710,
-            "quality": 148022
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 83422,
-            "quality": 66699
-          },
-          "npgs1": {
-            "success": 146936,
-            "quality": 104812
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 63240,
-            "quality": 37965
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 293887,
-            "quality": 209993
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 69913,
-            "quality": 41796
-          },
-          "npgs1": {
-            "success": 120012,
-            "quality": 61995
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 50156,
-            "quality": 20024
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 239870,
-            "quality": 123840
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 59922,
-            "quality": 41984
-          },
-          "npgs1": {
-            "success": 99974,
-            "quality": 62164
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 40116,
-            "quality": 20142
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 200614,
-            "quality": 124326
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "forest": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 70126
-          },
-          "npgs1": {
-            "success": 179930,
-            "quality": 109989
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 79845,
-            "quality": 39996
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 359922,
-            "quality": 219580
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 70087
-          },
-          "npgs1": {
-            "success": 190059,
-            "quality": 115412
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 90087,
-            "quality": 45097
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 380004,
-            "quality": 229813
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 70180
-          },
-          "npgs1": {
-            "success": 180141,
-            "quality": 110133
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 79784,
-            "quality": 39902
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 360018,
-            "quality": 220211
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 89992,
-            "quality": 63301
-          },
-          "npgs1": {
-            "success": 159788,
-            "quality": 98034
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 69801,
-            "quality": 34854
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 320249,
-            "quality": 196410
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "swamp": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 43442,
-            "quality": 30434
-          },
-          "npgs1": {
-            "success": 66667,
-            "quality": 42128
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 23189,
-            "quality": 11643
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 133415,
-            "quality": 84245
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 50222,
-            "quality": 29970
-          },
-          "npgs1": {
-            "success": 79875,
-            "quality": 42011
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 29989,
-            "quality": 11931
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 159694,
-            "quality": 83461
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 43442,
-            "quality": 21807
-          },
-          "npgs1": {
-            "success": 66699,
-            "quality": 28859
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 23242,
-            "quality": 7013
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 134051,
-            "quality": 57800
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 40119,
-            "quality": 20011
-          },
-          "npgs1": {
-            "success": 60237,
-            "quality": 25949
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 20088,
-            "quality": 6004
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 120159,
-            "quality": 52112
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "desert": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 16544,
-            "quality": 9946
-          },
-          "npgs1": {
-            "success": 16658,
-            "quality": 10025
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 33523,
-            "quality": 20001
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 13207,
-            "quality": 5352
-          },
-          "npgs1": {
-            "success": 13209,
-            "quality": 5314
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 26338,
-            "quality": 10544
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 16675,
-            "quality": 10143
-          },
-          "npgs1": {
-            "success": 16675,
-            "quality": 9951
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 33127,
-            "quality": 19809
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 19805,
-            "quality": 6441
-          },
-          "npgs1": {
-            "success": 20143,
-            "quality": 6733
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 40213,
-            "quality": 13504
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "coast": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 76702,
-            "quality": 53804
-          },
-          "npgs1": {
-            "success": 133634,
-            "quality": 82231
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 56638,
-            "quality": 28306
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 267381,
-            "quality": 164343
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 90005,
-            "quality": 63030
-          },
-          "npgs1": {
-            "success": 160322,
-            "quality": 97912
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 70124,
-            "quality": 35277
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 320147,
-            "quality": 195547
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 76574,
-            "quality": 46137
-          },
-          "npgs1": {
-            "success": 133197,
-            "quality": 68758
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 56557,
-            "quality": 22578
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 266615,
-            "quality": 137440
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 60019,
-            "quality": 36072
-          },
-          "npgs1": {
-            "success": 99667,
-            "quality": 51916
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 40258,
-            "quality": 16020
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 199471,
-            "quality": 103342
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
@@ -2066,686 +1562,518 @@
   "subarctic": {
     "mountains": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 26618,
-            "quality": 15900
-          },
-          "npgs1": {
-            "success": 33070,
-            "quality": 18400
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 6812,
-            "quality": 2702
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 67048,
-            "quality": 37779
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 29881,
-            "quality": 20831
-          },
-          "npgs1": {
-            "success": 40281,
-            "quality": 26231
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 10115,
-            "quality": 5038
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 79941,
-            "quality": 51887
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 26633,
-            "quality": 15946
-          },
-          "npgs1": {
-            "success": 33309,
-            "quality": 18646
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 6796,
-            "quality": 2692
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 66643,
-            "quality": 37134
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 20123,
-            "quality": 11931
-          },
-          "npgs1": {
-            "success": 20164,
-            "quality": 12060
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 40221,
-            "quality": 24157
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "hills": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 40069,
-            "quality": 24034
-          },
-          "npgs1": {
-            "success": 60095,
-            "quality": 31949
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 19862,
-            "quality": 8016
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 120343,
-            "quality": 64060
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 49835,
-            "quality": 35023
-          },
-          "npgs1": {
-            "success": 80402,
-            "quality": 50537
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 30025,
-            "quality": 14909
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 159931,
-            "quality": 99789
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 36550,
-            "quality": 22169
-          },
-          "npgs1": {
-            "success": 53060,
-            "quality": 28439
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 16593,
-            "quality": 6671
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 106504,
-            "quality": 57015
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 29946,
-            "quality": 18005
-          },
-          "npgs1": {
-            "success": 39915,
-            "quality": 21979
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 9944,
-            "quality": 4005
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 79648,
-            "quality": 44068
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "plains": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 40057,
-            "quality": 27878
-          },
-          "npgs1": {
-            "success": 60042,
-            "quality": 38072
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 20084,
-            "quality": 9893
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 120263,
-            "quality": 76224
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 60174,
-            "quality": 41999
-          },
-          "npgs1": {
-            "success": 99888,
-            "quality": 62040
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 40209,
-            "quality": 20243
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 200066,
-            "quality": 124071
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 39885,
-            "quality": 23790
-          },
-          "npgs1": {
-            "success": 59842,
-            "quality": 31967
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 20168,
-            "quality": 8119
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 119714,
-            "quality": 63706
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 29943,
-            "quality": 21012
-          },
-          "npgs1": {
-            "success": 39920,
-            "quality": 26060
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 10140,
-            "quality": 5024
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 79787,
-            "quality": 51806
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "forest": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 69811
-          },
-          "npgs1": {
-            "success": 180151,
-            "quality": 110019
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 79813,
-            "quality": 40052
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 359958,
-            "quality": 220167
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 100000,
-            "quality": 59824
-          },
-          "npgs1": {
-            "success": 189998,
-            "quality": 96585
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 90056,
-            "quality": 35967
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 379818,
-            "quality": 191701
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 90252,
-            "quality": 63154
-          },
-          "npgs1": {
-            "success": 160128,
-            "quality": 97739
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 70112,
-            "quality": 35197
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 320111,
-            "quality": 196384
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 80005,
-            "quality": 55887
-          },
-          "npgs1": {
-            "success": 140139,
-            "quality": 86251
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 59931,
-            "quality": 29724
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 279824,
-            "quality": 171632
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "swamp": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 30044,
-            "quality": 15060
-          },
-          "npgs1": {
-            "success": 39604,
-            "quality": 17827
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 9920,
-            "quality": 2950
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 79883,
-            "quality": 35827
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 40013,
-            "quality": 19684
-          },
-          "npgs1": {
-            "success": 60272,
-            "quality": 26107
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 20151,
-            "quality": 5976
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 120395,
-            "quality": 51977
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 30093,
-            "quality": 17880
-          },
-          "npgs1": {
-            "success": 40152,
-            "quality": 22171
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 10037,
-            "quality": 3994
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 79569,
-            "quality": 43731
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 26684,
-            "quality": 13316
-          },
-          "npgs1": {
-            "success": 33363,
-            "quality": 15229
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 6684,
-            "quality": 2025
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 66567,
-            "quality": 30386
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "desert": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 16794,
-            "quality": 9969
-          },
-          "npgs1": {
-            "success": 16576,
-            "quality": 9929
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 33298,
-            "quality": 20041
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 26510,
-            "quality": 15901
-          },
-          "npgs1": {
-            "success": 33061,
-            "quality": 18484
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 6701,
-            "quality": 2677
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 66599,
-            "quality": 37224
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 16581,
-            "quality": 4350
-          },
-          "npgs1": {
-            "success": 16616,
-            "quality": 4432
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 33231,
-            "quality": 8822
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 10071,
-            "quality": 1018
-          },
-          "npgs1": {
-            "success": 9871,
-            "quality": 969
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 19965,
-            "quality": 1974
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "coast": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 43217,
-            "quality": 25883
-          },
-          "npgs1": {
-            "success": 66700,
-            "quality": 35425
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 23326,
-            "quality": 9518
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 133017,
-            "quality": 70524
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 59975,
-            "quality": 41850
-          },
-          "npgs1": {
-            "success": 99954,
-            "quality": 62088
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 40048,
-            "quality": 19922
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 200257,
-            "quality": 123999
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 43321,
-            "quality": 25831
-          },
-          "npgs1": {
-            "success": 66257,
-            "quality": 35129
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 23358,
-            "quality": 9364
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 133024,
-            "quality": 70695
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 33297,
-            "quality": 16616
-          },
-          "npgs1": {
-            "success": 46529,
-            "quality": 20736
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 13124,
-            "quality": 3939
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 93197,
-            "quality": 41384
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
@@ -2754,686 +2082,518 @@
   "arctic": {
     "mountains": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 10058,
-            "quality": 1002
-          },
-          "npgs1": {
-            "success": 10204,
-            "quality": 1038
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 20022,
-            "quality": 2016
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 16876,
-            "quality": 10101
-          },
-          "npgs1": {
-            "success": 16569,
-            "quality": 9897
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 33424,
-            "quality": 20010
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 10009,
-            "quality": 1023
-          },
-          "npgs1": {
-            "success": 9961,
-            "quality": 1034
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 19987,
-            "quality": 2061
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 9966,
-            "quality": 1012
-          },
-          "npgs1": {
-            "success": 9996,
-            "quality": 961
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 19817,
-            "quality": 1967
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "hills": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 20113,
-            "quality": 10061
-          },
-          "npgs1": {
-            "success": 19932,
-            "quality": 9978
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 40248,
-            "quality": 20030
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 20055,
-            "quality": 9978
-          },
-          "npgs1": {
-            "success": 19953,
-            "quality": 9912
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 39910,
-            "quality": 19747
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 16627,
-            "quality": 9969
-          },
-          "npgs1": {
-            "success": 16546,
-            "quality": 9924
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 33420,
-            "quality": 20065
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 16738,
-            "quality": 5064
-          },
-          "npgs1": {
-            "success": 16843,
-            "quality": 5103
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 33229,
-            "quality": 10073
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "plains": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 16761,
-            "quality": 10033
-          },
-          "npgs1": {
-            "success": 16515,
-            "quality": 9981
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 33035,
-            "quality": 19907
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 19980,
-            "quality": 12001
-          },
-          "npgs1": {
-            "success": 19975,
-            "quality": 11875
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 40084,
-            "quality": 24107
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 16612,
-            "quality": 9885
-          },
-          "npgs1": {
-            "success": 16564,
-            "quality": 9902
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 33293,
-            "quality": 19895
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 13366,
-            "quality": 13366
-          },
-          "npgs1": {
-            "success": 13358,
-            "quality": 13358
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 26818,
-            "quality": 26818
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "forest": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 16767,
-            "quality": 4511
-          },
-          "npgs1": {
-            "success": 16660,
-            "quality": 4457
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 33276,
-            "quality": 8881
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 19891,
-            "quality": 5385
-          },
-          "npgs1": {
-            "success": 19903,
-            "quality": 5387
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 40053,
-            "quality": 10728
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 9907,
-            "quality": 966
-          },
-          "npgs1": {
-            "success": 9836,
-            "quality": 943
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 20096,
-            "quality": 2045
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 9871,
-            "quality": 962
-          },
-          "npgs1": {
-            "success": 10122,
-            "quality": 1064
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 19843,
-            "quality": 1924
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "swamp": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 16649,
-            "quality": 4440
-          },
-          "npgs1": {
-            "success": 16698,
-            "quality": 4414
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 33398,
-            "quality": 8935
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 20028,
-            "quality": 5263
-          },
-          "npgs1": {
-            "success": 19913,
-            "quality": 5321
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 40020,
-            "quality": 10800
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 9952,
-            "quality": 1013
-          },
-          "npgs1": {
-            "success": 10137,
-            "quality": 991
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 20149,
-            "quality": 2004
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 9977,
-            "quality": 954
-          },
-          "npgs1": {
-            "success": 9938,
-            "quality": 967
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 19713,
-            "quality": 1984
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "desert": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 16720,
-            "quality": 4478
-          },
-          "npgs1": {
-            "success": 16596,
-            "quality": 4481
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 33187,
-            "quality": 8790
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 19821,
-            "quality": 5263
-          },
-          "npgs1": {
-            "success": 19888,
-            "quality": 5363
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 39879,
-            "quality": 10806
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 10073,
-            "quality": 1055
-          },
-          "npgs1": {
-            "success": 10033,
-            "quality": 1009
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 19964,
-            "quality": 2009
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 9864,
-            "quality": 977
-          },
-          "npgs1": {
-            "success": 9719,
-            "quality": 1016
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 19921,
-            "quality": 2064
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
     },
     "coast": {
       "spring": {
-        "pgs1": {
-          "npgs0": {
-            "success": 20019,
-            "quality": 12010
-          },
-          "npgs1": {
-            "success": 19924,
-            "quality": 12039
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 40129,
-            "quality": 24037
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "summer": {
-        "pgs1": {
-          "npgs0": {
-            "success": 26760,
-            "quality": 16010
-          },
-          "npgs1": {
-            "success": 33262,
-            "quality": 18606
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 6653,
-            "quality": 2660
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 66723,
-            "quality": 37315
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "fall": {
-        "pgs1": {
-          "npgs0": {
-            "success": 19996,
-            "quality": 5944
-          },
-          "npgs1": {
-            "success": 20052,
-            "quality": 6010
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 40003,
-            "quality": 12241
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       },
       "winter": {
-        "pgs1": {
-          "npgs0": {
-            "success": 20058,
-            "quality": 6114
-          },
-          "npgs1": {
-            "success": 20154,
-            "quality": 6075
+        "day": {
+          "pgs1": {
+            "npgs0": {
+              "success": null,
+              "quality": null
+            }
           }
         },
-        "pgs0": {
-          "npgs1": {
-            "success": 0,
-            "quality": 0
-          }
-        },
-        "pgs2": {
-          "npgs2": {
-            "success": 39722,
-            "quality": 11672
+        "night": {
+          "pgs0": {
+            "npgs1": {
+              "success": null,
+              "quality": null
+            }
           }
         }
       }
