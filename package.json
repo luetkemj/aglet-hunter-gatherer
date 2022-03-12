@@ -20,7 +20,7 @@
   "author": "luetkemj",
   "license": "MIT",
   "dependencies": {
-    "@aglet/components": "1.3.2",
+    "@aglet/components": "2.0.1",
     "lodash": "4.17.4",
     "react": "15.6.1",
     "react-dom": "15.6.1"
